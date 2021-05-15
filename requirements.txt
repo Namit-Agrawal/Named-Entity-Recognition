@@ -1,0 +1,16 @@
+# Numerical computing
+numpy
+# Pytorch
+torch==1.4.0
+# Training curve visualization
+tensorboard
+# Progress bar for training
+tqdm
+# Unit tests
+pytest
+# SQuAD utils
+tensorboardX==2.1
+# Hugging face transformers
+transformers
+pytorch-crf
+scikit-learn
